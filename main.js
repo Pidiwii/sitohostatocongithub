@@ -1,0 +1,1 @@
+alert("Questo sito è hostato con GitHub!")
